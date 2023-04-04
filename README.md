@@ -1,2 +1,2 @@
 # bmiCalculator
- a program that calculates your BMI and shows your situation with a table
+ a software written that calculates your BMI and shows your situation with a table
